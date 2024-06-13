@@ -21,3 +21,7 @@
 #### 3. 微服务
 - [Spring Cloud入门教程](https://great-jin.github.io/java/spring/cloud/eureka/)
 - [Spring Cloud Alibaba介绍](https://great-jin.github.io/java/spring/cloud/nacos/)
+
+
+#### 4. 服务部署
+- [Maven 打包部署教程](https://great-jin.github.io/java/maven/deploy/)
